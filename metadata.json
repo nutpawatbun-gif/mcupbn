@@ -1,0 +1,6 @@
+{
+  "name": "DrivePass - Secure Drive File Share",
+  "description": "ระบบแชร์ไฟล์และโฟลเดอร์ Google Drive แบบไม่ต้องล็อกอิน พร้อมระบบกรอกรหัสผ่าน กำหนดเวลาหมดอายุ และจำกัดจำนวนครั้งในการดาวน์โหลด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
